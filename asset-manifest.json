@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My_Resto/static/css/main.02a5ed09.css",
+    "main.js": "/My_Resto/static/js/main.8e177243.js",
+    "static/js/787.091bb736.chunk.js": "/My_Resto/static/js/787.091bb736.chunk.js",
+    "static/media/biryani.png": "/My_Resto/static/media/biryani.302f559b076a476ad924.png",
+    "static/media/mutton.png": "/My_Resto/static/media/mutton.534b0210df2c847a4cef.png",
+    "static/media/masala.jpg": "/My_Resto/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/fish.webp": "/My_Resto/static/media/fish.1eebdb59ceb337f47634.webp",
+    "static/media/banner.jpeg": "/My_Resto/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/My_Resto/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/logo.svg": "/My_Resto/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "static/media/paneer.jpg": "/My_Resto/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/My_Resto/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/My_Resto/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/My_Resto/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/My_Resto/index.html",
+    "main.02a5ed09.css.map": "/My_Resto/static/css/main.02a5ed09.css.map",
+    "main.8e177243.js.map": "/My_Resto/static/js/main.8e177243.js.map",
+    "787.091bb736.chunk.js.map": "/My_Resto/static/js/787.091bb736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a5ed09.css",
+    "static/js/main.8e177243.js"
+  ]
+}
